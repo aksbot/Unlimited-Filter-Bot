@@ -50,7 +50,14 @@
 
 (You need to be an admin or Auth User in order to use these commands)
 
+Join channel
+@ak_bots
+
+Join Support Group
+@aksbotz
+
 > Filter Commands
+
 * `/add <filtername> <filtercontent>`  -  To add your filter. You can also reply to your content with /add command.
 
 * `/del <filtername>`  -  Delete your filter.
@@ -74,12 +81,12 @@
 
 ## You can check the video tutorial on how to deploy
 
-[Click here to see tutorial video](https://youtu.be/hkmc3e7U7R4)
+[Click here to see tutorial video](https://t.me/aksbotz)
 
-Thanks to [InfotelGroup](https://telegram.dog/InFoTel_Group) and [Erich Daniken](https://telegram.dog/ErichDaniken) for the video
+Thanks to [InfotelGroup](https://t.me/aksbotz) and [Erich Daniken](https://t.me/ak_bots) for the video
 
 
-## Any bugs or errors or suggestions, report at [TroJanzSupport](https://telegram.dog/TroJanzSupport)
+## Any bugs or errors or suggestions, report at [TroJanzSupport](https://t.me/aksbotz)
 
 
 ## Installation
